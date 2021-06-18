@@ -1,0 +1,3 @@
+<launch>
+  <node pkg="ros_music_therapy" type="main.py" name="$(anon ros_music_therapy)" output="screen" />
+</launch>

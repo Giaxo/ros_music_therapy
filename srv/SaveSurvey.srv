@@ -1,0 +1,4 @@
+int8 sessionLength
+string answers
+---
+int8 resultCode

@@ -1,0 +1,4 @@
+string link
+int8 value
+---
+int8 resultCode
